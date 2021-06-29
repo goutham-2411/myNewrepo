@@ -71,7 +71,7 @@ for ele in final_mrks:
         final_grades.append(grade)
     if(ele>90):
         grade='A+'
-        final_grade.append(grade)
+        final_grades.append(grade)
 
 
 #to calculate gpa
