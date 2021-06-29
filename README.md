@@ -1,5 +1,3 @@
-# myNewrepo
-Coursera Assignment
+Readme.
 
-#update
-I am editing the README file. Adding some more details about the project description.
+In this repo i will be adding some of my basic and advaced Python projects and codes.
